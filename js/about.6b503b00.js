@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkwebsite_flowerstone"]=self["webpackChunkwebsite_flowerstone"]||[]).push([[443],{5399:function(e,t,n){n.r(t),n.d(t,{default:function(){return a}});var s=function(){var e=this;e._self._c;return e._m(0)},u=[function(){var e=this,t=e._self._c;return t("div",{staticClass:"about"},[t("h1",[e._v("This is an about page")])])}],l=n(1001),r={},i=(0,l.Z)(r,s,u,!1,null,null,null),a=i.exports}}]);
+//# sourceMappingURL=about.6b503b00.js.map
